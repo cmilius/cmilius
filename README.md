@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-C# | .NET | Git | SQL | JavaScript | Automation | Embedded Systems | Java | PHP
+C# | .NET | Git | SQL | JavaScript | Automation | Embedded Systems | Python | Java | PHP
 
 <!--
 **cmilius/cmilius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
